@@ -2,5 +2,4 @@ __pycache__
 *.pyc
 .myenv/
 *.sqlite3
-requirements.txt
         
